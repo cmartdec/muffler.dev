@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #212121;
+    color: #111;
+    font-family: sans-serif;
+    line-height: 1.6;
+    padding: 40px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+.site-header {
+    height: 120px;
+    margin-bottom: 40px;
+    padding-top: 20px;
+}
+
+
